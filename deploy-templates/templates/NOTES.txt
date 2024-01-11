@@ -1,0 +1,1 @@
+1. Application react-sonar has been successfully deployed!!
